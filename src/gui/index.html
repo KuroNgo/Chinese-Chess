@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cờ tướng Dev Kuro</title>
+</head>
+<body>
+    <!-- Dẫn link thực hiện logic của game-->
+    <script src="../engine/cotuong-devKuro.js"></script>
+    <!-- output -->
+    <!-- <script>
+        // dọc ranks, hàng files
+        //let ranks = ['x','x','9','8','7','6','5','4','3','2','1','0','x','x']
+        //let files = ['x','a','b','c','d','e','f','g','h','i','x']
+        //let str='';
+        for(let rank = 0; rank < 14; rank ++){
+            for(let file = 0;file < 11;file++){
+                str += "'"+files[file] + ranks[rank] +"'"+ ' , ';
+            }
+            str += '\n';
+        }
+        console.log(str);
+    </script> -->
+    <script type="text/javascript" charset="utf-8">
+        let engine=new Engine();
+        engine.debug();
+    </script>
+</body>
+</html>
