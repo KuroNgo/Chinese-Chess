@@ -1,0 +1,12 @@
+Phát triển ứng dụng game 
+Chuyên cần 10%
+Trắc nghiệm 20%
+Lab, bài tập 20%
+Thi cuối kỳ (máy) 50%
+
+I. Tổng quan 
+Game là gì? 
+Các loại game
+Quy trình làm game
+Các vị trí công việc
+Công nghệ
